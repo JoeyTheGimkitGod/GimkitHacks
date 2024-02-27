@@ -1,4 +1,4 @@
-# Gimkit Cheat
+# Gimkit Hacks
 
 This version of Gimkit Cheat was inspired by Gimkit Utility by [UndercoverGoose](https://github.com/UndercoverGoose), which was sadly taken down. The main things that were carried over from the other script are using Typescript, Rollup and Tampermonkey, which makes it easier to develop and use. If you do want to try out the older versions, check out [v1 here](/v1) or [v2 here](/v2).
 
